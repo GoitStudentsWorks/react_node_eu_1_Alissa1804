@@ -12,7 +12,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/wallet_goit_finalproject_frontend">
+        <BrowserRouter basename="/react_node_eu_1_Alissa1804">
           <App />
         </BrowserRouter>
       </PersistGate>
